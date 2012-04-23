@@ -8,9 +8,9 @@
     "nib": "0.3.x"
   }
   , "devDependencies": {
-      "connect": "2.0.x"
-    , "stylus": "0.24.0"
+      "connect": ">= 2.0.x"
+    , "stylus": ">= 0.24.0"
   }
   , "main": "index"
-  , "engines": { "node": "0.4.x" }
+  , "engines": { "node": "0.6.x" }
 }
